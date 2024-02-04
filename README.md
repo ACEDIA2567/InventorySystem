@@ -67,4 +67,4 @@
 # 24.02.24
 ## 오류 해결
 > ### 인벤토리 창에서 빈 아이템 공간 클릭 시 NullReferenceException: Object reference not set to an instance of an object 오류 발생
-> ### 인벤토리 칸에서 가방을 소비 Item과 위치를 바꾸면 가방의 정보가 사라지는 오류 발생
+> ### 인벤토리 칸에서 가방을 다른 아이템과 정보를 바꿀 때 가방의 정보가 사라지거나 복사가 되는 오류 발생
