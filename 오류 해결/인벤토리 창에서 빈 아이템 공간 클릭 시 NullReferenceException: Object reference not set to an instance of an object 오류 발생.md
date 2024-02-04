@@ -16,5 +16,4 @@ public void OnPointerClick(PointerEventData eventData)
     }
 ```
 
-## 클릭 한 정보 eventData에서 eventData.pointerDrag.GetComponent<Slot>().ItemStatus을 이용하여 Null값을 예외 처리를 하여
-NullReferenceException: Object reference not set to an instance of an object오류를 해결 하였음
+## 클릭 한 정보 eventData에서 eventData.pointerDrag.GetComponent<Slot>().ItemStatus을 이용하여 Null값을 예외 처리를 하여 NullReferenceException: Object reference not set to an instance of an object 오류를 해결 하였음
